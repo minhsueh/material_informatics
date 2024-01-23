@@ -4,3 +4,4 @@ Explore additional references and resources for those interested in delving deep
 
 
 <img style="float: left;" src="/imgs/test.png">
+A toolkit for plotting periodic trends.
