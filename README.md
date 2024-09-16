@@ -15,7 +15,9 @@ Traditional research often follows an incremental process, where innovations bui
 <img style="float: left;" src="/imgs/mp_api_statistics.png">
 The volume of data available across different APIs. (Last update: Sep. 8th, 2024)
 
-<br>
+  
+  
+  
 
 
 <img style="float: left;" src="/imgs/mp_elemental_statistics.png">
