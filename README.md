@@ -15,8 +15,7 @@ Traditional research often follows an incremental process, where innovations bui
 <img style="float: center;" src="/imgs/mp_api_statistics.png">
 The volume of data available across different APIs. (Last update: Sep. 8th, 2024)
   
-<br />
-<br />
+<br/><br/>
 
 <img style="float: center;" src="/imgs/mp_elemental_statistics.png">
 The compositional distribution of the data, along with visualizations presented as periodic table heatmaps. (Last update: Sep. 8th, 2024)
