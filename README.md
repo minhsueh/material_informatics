@@ -18,5 +18,5 @@ The volume of data available across different APIs. (Last update: Sep. 8th, 2024
 <br/><br/>
 
 <img style="float: center;" src="/imgs/mp_elemental_statistics.png">
-The compositional distribution of the data, along with visualizations presented as periodic table heatmaps. (Last update: Sep. 8th, 2024)
+Compositional distribution of data visualized as periodic table heatmaps. Each cell represents the number of materials containing the corresponding element. For example, the cell for Si indicates the number of Si-*. (Last update: Sep. 8th, 2024)
 
